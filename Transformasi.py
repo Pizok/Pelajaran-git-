@@ -20,7 +20,7 @@ while jawab == "y":
    if int(jawab2) == 1:
       dilatasi_a_b()
    elif int(jawab2) == 2:
-      dilatasi
+      dilatasi()
    elif int(jawab2) == 3:
-      break
+      print("Belum Tersedia")
    jawab = input("Coba lagi? y/n \n")
